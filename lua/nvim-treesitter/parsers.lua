@@ -584,7 +584,7 @@ return {
   fsharp = {
     install_info = {
       location = 'fsharp',
-      revision = 'ad824dea984734406b50699c5f388a7412e85946',
+      revision = '9308e58bec0394232a8d4abdd92eeaa387aefc89',
       url = 'https://github.com/ionide/tree-sitter-fsharp',
     },
     maintainers = { '@nsidorenco' },
@@ -1016,7 +1016,7 @@ return {
   },
   inko = {
     install_info = {
-      revision = '0b08a8f976456a9271f70d4682143328d7224115',
+      revision = '4d057a5c24d715b211c3c82de2526f041b4af66f',
       url = 'https://github.com/inko-lang/tree-sitter-inko',
     },
     maintainers = { '@yorickpeterse' },
@@ -1368,7 +1368,7 @@ return {
   mlir = {
     install_info = {
       generate = true,
-      revision = '9d83ca263fa7ec8ac7a5fd8ad14891b2dc583a32',
+      revision = '2a8476371ff4f8b9e451d702033fdf9410fc1a16',
       url = 'https://github.com/artagnon/tree-sitter-mlir',
     },
     maintainers = { '@artagnon' },
@@ -1813,7 +1813,7 @@ return {
   razor = {
     install_info = {
       generate_from_json = true,
-      revision = 'a47cd8ca148685629739a4ab69f58864800fbdab',
+      revision = 'fe46ce5ea7d844e53d59bc96f2175d33691c61c5',
       url = 'https://github.com/tris203/tree-sitter-razor',
     },
     maintainers = { '@tris203' },
@@ -2183,7 +2183,7 @@ return {
   swift = {
     install_info = {
       generate = true,
-      revision = '1ebc09c38f41d6aab7dd65ca0f8ea032ced0364f',
+      revision = '48fcda87af1bed7d7a328dcd257fe8ee75933b04',
       url = 'https://github.com/alex-pinkus/tree-sitter-swift',
     },
     maintainers = { '@alex-pinkus' },
